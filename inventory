@@ -1,5 +1,5 @@
-[web]
-system1
+[prod]
+node1
 
-
-
+[dev]
+node2
